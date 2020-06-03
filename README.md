@@ -1,5 +1,2 @@
 # Competative_Coding
-All the code of the cc i participated
-change
-
-this is my work
+All the code of the cc i participated and leetcode problems
